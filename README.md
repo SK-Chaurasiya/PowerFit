@@ -59,5 +59,6 @@ Contributors are welcome! Please fork this repository, create a feature branch, 
 ## License:
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
+Demo: https://sk-chaurasiya.github.io/PowerFit/
 ---
 Elevate your web presence with PowerFit and stay ahead in the digital fitness arena!
